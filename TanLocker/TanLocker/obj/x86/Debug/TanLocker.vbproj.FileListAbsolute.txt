@@ -1,0 +1,16 @@
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\bin\Debug\TanLocker.exe
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\bin\Debug\TanLocker.pdb
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\bin\Debug\TanLocker.xml
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.lock.resources
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.TanLocker.resources
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.Resources.resources
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.unlock.resources
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.vbproj.GenerateResource.Cache
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.exe
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.xml
+C:\Users\Tanny\documents\visual studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.pdb
+C:\Users\Tanny\Documents\Visual Studio 2010\Projects\TanLocker\TanLocker\bin\Debug\TanLocker.exe.manifest
+C:\Users\Tanny\Documents\Visual Studio 2010\Projects\TanLocker\TanLocker\bin\Debug\TanLocker.application
+C:\Users\Tanny\Documents\Visual Studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.TrustInfo.xml
+C:\Users\Tanny\Documents\Visual Studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.exe.manifest
+C:\Users\Tanny\Documents\Visual Studio 2010\Projects\TanLocker\TanLocker\obj\x86\Debug\TanLocker.application

@@ -1,0 +1,24 @@
+C:\Users\TRG\Documents\Visual Studio 2010\Projects\TanSpot\TanSpot\bin\Debug\TanSpot.exe
+C:\Users\TRG\Documents\Visual Studio 2010\Projects\TanSpot\TanSpot\bin\Debug\TanSpot.pdb
+C:\Users\TRG\Documents\Visual Studio 2010\Projects\TanSpot\TanSpot\bin\Debug\TanSpot.xml
+C:\Users\TRG\Documents\Visual Studio 2010\Projects\TanSpot\TanSpot\obj\x86\Debug\TanSpot.Form1.resources
+C:\Users\TRG\Documents\Visual Studio 2010\Projects\TanSpot\TanSpot\obj\x86\Debug\TanSpot.Resources.resources
+C:\Users\TRG\Documents\Visual Studio 2010\Projects\TanSpot\TanSpot\obj\x86\Debug\TanSpot.vbproj.GenerateResource.Cache
+C:\Users\TRG\Documents\Visual Studio 2010\Projects\TanSpot\TanSpot\obj\x86\Debug\TanSpot.exe
+C:\Users\TRG\Documents\Visual Studio 2010\Projects\TanSpot\TanSpot\obj\x86\Debug\TanSpot.xml
+C:\Users\TRG\Documents\Visual Studio 2010\Projects\TanSpot\TanSpot\obj\x86\Debug\TanSpot.pdb
+C:\Users\TRG\Desktop\TanSpot\TanSpot\obj\x86\Debug\TanSpot.exe
+C:\Users\TRG\Desktop\TanSpot\TanSpot\obj\x86\Debug\TanSpot.xml
+C:\Users\TRG\Desktop\TanSpot\TanSpot\obj\x86\Debug\TanSpot.pdb
+C:\Users\TRG\Desktop\TanSpot\TanSpot\obj\x86\Debug\TanSpot.Form1.resources
+C:\Users\TRG\Desktop\TanSpot\TanSpot\obj\x86\Debug\TanSpot.Resources.resources
+C:\Users\TRG\Desktop\TanSpot\TanSpot\obj\x86\Debug\TanSpot.vbproj.GenerateResource.Cache
+C:\Users\TRG\Desktop\TanSpot\TanSpot\bin\Debug\TanSpot.exe
+C:\Users\TRG\Desktop\TanSpot\TanSpot\bin\Debug\TanSpot.pdb
+C:\Users\TRG\Desktop\TanSpot\TanSpot\bin\Debug\TanSpot.xml
+H:\Tanny\TanSpot\TanSpot\obj\x86\Debug\TanSpot.exe
+H:\Tanny\TanSpot\TanSpot\obj\x86\Debug\TanSpot.xml
+H:\Tanny\TanSpot\TanSpot\obj\x86\Debug\TanSpot.pdb
+E:\Tanveer\Projects\TanSpot\TanSpot\obj\x86\Debug\TanSpot.exe
+E:\Tanveer\Projects\TanSpot\TanSpot\obj\x86\Debug\TanSpot.xml
+E:\Tanveer\Projects\TanSpot\TanSpot\obj\x86\Debug\TanSpot.pdb
